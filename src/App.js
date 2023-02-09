@@ -116,11 +116,11 @@ import meet from './assets/image/client-meet.svg';
     </header>
     <section className='flex flex-col-reverse py-20 md:grid md:gap-10 md:grid-cols-2 md:place-items-center max-w-4xl lg:max-w-5xl md:mx-auto'>
       <article className='text-center md:text-left px-5 xl:px-0 mt-10 md:mt-0'>
-        <h1 className='font-bold  text-6xl lg:text-6xl mb-5'>
-        Make remote work
+        <h1 className='font-bold text-4xl lg:text-6xl mb-5'>
+        Make<br/> remote work
         </h1>
         <p className='mb-5'>
-        Get your team in sync, no matter your location. Streamline processes,create team rituals, and watch productivity soar.
+        Get your team in sync, no matter your location.<br/> Streamline processes,create team rituals, and<br/> watch productivity soar.
         </p>
         <button class="bg-black rounded-lg shadow text-white font-bold hover:bg-white hover:text-black hover:border-black hover:border  transition-all duration-150 py-2 px-6 cursor-pointer">
           Learn more
